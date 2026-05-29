@@ -1,26 +1,16 @@
-# GustavoCecato
-📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=radical"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=radical"/> </div>
-💖 Autor
-<div align="center">
-Feito com café, determinação e pequenas crises existenciais.
+# Hi 👋, I'm Gustavo
 
-Seu Nome
+### A passionate developer from around the world
 
+- 🔭 I'm currently working on **School Projects**
 
+- 🌱 I'm currently learning **JS CSS Python C++**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/jusVVV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jusVVV" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-
-</div>
-⭐ Apoie o Projeto
-
-Se esse projeto te ajudou:
-
-⭐ Dá uma estrela no repositório
-🍴 Faça um fork
-☕ Me pague um café
-💅 Espalhe a palavra, darling
-<div align="center">
-🌈 “Code bonito também é feature.”
-</div>****
